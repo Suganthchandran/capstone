@@ -1,5 +1,5 @@
 #!/bin/bash
-    echo hi123
+    # echo hi123
     sh 'chmod +x build.sh'
     sh './build.sh'
     docker login -u suganth07 -p dckr_pat_oAYT02qRwSz2jrlHz54liPeI7_k
